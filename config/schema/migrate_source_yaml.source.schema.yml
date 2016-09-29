@@ -1,0 +1,13 @@
+migrate.source.yaml:
+  type: migrate_source
+  label: 'Yaml'
+  mapping:
+    file:
+      type: string
+      label: 'Path to the source file.'
+    ids:
+      type: sequence
+      label: 'Names of the keys which represent the id uniquely identifying each record.'
+      sequence:
+        type: string
+        label: 'ID field'
