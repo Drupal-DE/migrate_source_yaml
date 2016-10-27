@@ -1,0 +1,14 @@
+{
+    "name": "drupal/migrate_source_yaml",
+    "description": "YAML migration source and dataparser.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Stefan Borchert (stborchert)",
+            "homepage": "https://www.drupal.org/u/stborchert",
+            "role": "Maintainer"
+        }
+    ]
+}
+
